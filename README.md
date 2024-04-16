@@ -1,4 +1,4 @@
-<img src='./images/github-banner.jpg' />
+<img src='./images/github-banner2.jpg' />
 
 <p align="center">
  <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
