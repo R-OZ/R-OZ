@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src='./images/github-banner.jpg' />
 <!--
 **R-OZ/R-OZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
