@@ -10,7 +10,7 @@ Hi 👋, my name is Reginald (Reggie for short). I firmly believe in the currenc
 <!-- Hi 👋, my name is Reginald (Reggie for short) and I am a result-driven Full Stack Developer specializing in crafting exceptional digital experiences. Adept in both Frontend and Backend Engineering. I engineer robust end-to-end solutions with a meticulous approach to testing. Building intricate components, I ensure optimal performance, delivering a seamless user experience with flawless backend integration. -->
 
 
-<h3 align='center'>Skillset Spotlight</h3>
+<h2 align='center'>Skillset Spotlight</h2>
 <p align='center'>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
