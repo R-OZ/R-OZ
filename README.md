@@ -46,4 +46,7 @@ Hi 👋, my name is Reginald (Reggie for short). I firmly believe in the currenc
 </p>
 
 
-<p>A really cool personal projects section is in progress...</p>
+
+
+<p><i>A really cool personal projects section is in progress...</i><br/>Want to see some of my personal projects? Feel free to check them out [here](https://reginaldojeba.vercel.app/#projects).</p>
+
