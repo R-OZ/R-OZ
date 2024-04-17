@@ -6,6 +6,9 @@
 </p>
 
 ## More Than a Just Developer
-Hi 👋, my name is Reginald (Reggie for short) and I am a result-driven Full Stack Developer specializing in crafting exceptional digital experiences. Adept in both Frontend and Backend Engineering. I engineer robust end-to-end solutions with a meticulous approach to testing. Building intricate components, I ensure optimal performance, delivering a seamless user experience with flawless backend integration.
+Hi 👋, my name is Reginald (Reggie for short). I firmly believe in the currency of people over the currency of money. As I continue to evolve in the tech landscape, my mission is to use my skills to enrich lives, inspire creativity, and contribute to the global community. Join me on this exciting journey, where code meets creativity, and dreams take flight. Let's build the extraordinary together! 🚀✨
+<!-- Hi 👋, my name is Reginald (Reggie for short) and I am a result-driven Full Stack Developer specializing in crafting exceptional digital experiences. Adept in both Frontend and Backend Engineering. I engineer robust end-to-end solutions with a meticulous approach to testing. Building intricate components, I ensure optimal performance, delivering a seamless user experience with flawless backend integration. -->
 
-<p>A really cool read me section is currently in progress...</p>
+
+### Tech Stack
+
