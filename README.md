@@ -45,8 +45,8 @@ Hi 👋, my name is Reginald (Reggie for short). I firmly believe in the currenc
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
 </p>
 
+<br/>
+<br/>
 
-
-
-<p><i>A really cool personal projects section is in progress...</i><br/>Want to see some of my personal projects? Feel free to check them out [here](https://reginaldojeba.vercel.app/#projects).</p>
+<p><i>A really cool personal projects section is in progress...</i><br/>Want to see some of my personal projects? Feel free to check them out <a href='https://reginaldojeba.vercel.app/#projects' target='_blank'>here</a>.</p>
 
