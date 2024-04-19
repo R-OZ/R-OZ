@@ -1,4 +1,4 @@
-<img src='./images/github-banner2.jpg' />
+<img src='./images/github-banner.jpg' />
 <p align='left'>
 <a href = "mailto:reginaldojeba@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&color=white"></a>
 <a href = "https://www.linkedin.com/in/reginald-ojeba" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&color=white&logoColor=blue"></a>
