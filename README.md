@@ -1,5 +1,5 @@
 
-<img src="./images/github-banner.jpg" alt="Reginald Ojeba developer banner" width="100%" />
+<img src="./images/gh-banner-new.jpg" alt="Reginald Ojeba developer banner" width="100%" />
 
 <p align="left">
   <a href="mailto:reginaldojeba@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&color=white" /></a>
