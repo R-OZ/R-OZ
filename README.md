@@ -46,4 +46,4 @@ Hi, I'm Reggie, a software engineer who builds products end to end: the services
 
 ---
 
-<p align="center"><sub>Lagos, Nigeria · Open to remote software engineering opportunities</sub></p>
+<p align="center"><sub>Happy Coding !!</sub></p>
